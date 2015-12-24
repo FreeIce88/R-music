@@ -16,5 +16,10 @@ namespace music
         {
             InitializeComponent();
         }
+
+        private void 删除ToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
